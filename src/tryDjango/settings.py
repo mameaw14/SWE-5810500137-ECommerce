@@ -25,7 +25,7 @@ EMAIL_USE_TLS = True
 # See https://docs.djangoproject.com/en/1.11/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '3_h7ea8fl-53zo+iz2#cwgv6lnq#xld=jdxu=^6_mus!^@*w!+'
+SECRET_KEY = 'c^lc9=4t55m)ucfe)231&99$49e32@e!pb6=#x56=2u++q!(jk'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
